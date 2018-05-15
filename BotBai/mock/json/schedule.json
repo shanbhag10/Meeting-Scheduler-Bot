@@ -1,0 +1,22 @@
+[{
+    "id": 1,
+    "intent": null,
+    "creator": "U7K7WN00L",
+    "start":  1508868200000,
+    "end": 1508876800000,
+    "participants": ["B", "C", "D"]
+}, {
+    "id": 2,
+    "intent": null,
+    "creator": "G",
+    "start":  1508508000000,
+    "end": 1508509800000,
+    "participants": ["E", "F"]
+}, {
+    "id": 3,
+    "intent": null,
+    "creator": "C",
+    "start":  1508508000000,
+    "end": 1508513400000,
+    "participants": ["A", "D"]
+}]
